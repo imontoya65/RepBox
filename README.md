@@ -1,4 +1,4 @@
 RepBox
 ======
 
-Impresora de formato cuadrado, cerrada de libre distribución 
+Impresora de formato cuadrado, de libre distribución 
